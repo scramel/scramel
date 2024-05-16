@@ -2,7 +2,7 @@
 <img src="https://media.licdn.com/dms/image/D4E16AQFJm2XPYbwcHw/profile-displaybackgroundimage-shrink_350_1400/0/1683331751716?e=1721260800&v=beta&t=Yr7yeB9y9iVTYiaaKG23HC4mNzd3erqa24AySbpScgU" alt="Profile banner showcasing websites." />
 
 <!-- Home  -->
-<h3 align="center">Hi! I'm Orión alias Scramel.</h3>
+<h3 align="center">Hi! I'm Orion alias Scramel.</h3>
 <p align="center"> 
   <samp>
       I'm a full-stack web developer from Venezuela with professional experience building Vue.js and Ruby on Rails applications.<br>I'm also a <a href="https://www.youtube.com/@Scramel/">freelance musician</a> and an aspiring game/visual novel developer!
