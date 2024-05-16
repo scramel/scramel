@@ -33,7 +33,6 @@
 ![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-cc0000?style=for-the-badge&labelColor=black&logo=ruby&logoColor=cc0000)
 ![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
-![Ren'py](https://img.shields.io/badge/Ren'py-FF7F7F?style=for-the-badge&labelColor=black&logo=renpy&logoColor=FF7F7F)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SASS Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
@@ -42,9 +41,8 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0064a5?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-EF5B25?style=for-the-badge&logo=postman&logoColor=white)
 ![Bitbucket](https://img.shields.io/badge/Bitbucket-2185FF?style=for-the-badge&logo=bitbucket&logoColor=white)
-![Scrum](https://img.shields.io/badge/Scrum-F68B1E?style=for-the-badge&logo=scrumalliance&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![Ren'py](https://img.shields.io/badge/Ren'py-FF7F7F?style=for-the-badge&labelColor=black&logo=renpy&logoColor=FF7F7F)
 
 <!-- Portfolio -->
 ## Open Source Work
