@@ -2,10 +2,10 @@
 <img src="https://media.licdn.com/dms/image/D4E16AQFJm2XPYbwcHw/profile-displaybackgroundimage-shrink_350_1400/0/1683331751716?e=1721260800&v=beta&t=Yr7yeB9y9iVTYiaaKG23HC4mNzd3erqa24AySbpScgU" alt="Profile banner showcasing websites." />
 
 <!-- Home  -->
-<h3 align="center">Hi! I'm Orión Sánchez.</h3>
+<h3 align="center">Hi! I'm Orión alias Scramel.</h3>
 <p align="center"> 
   <samp>
-      I'm a full-stack web developer from Venezuela with professional experience building Vue.js and Ruby on Rails applications.
+      I'm a full-stack web developer from Venezuela with professional experience building Vue.js and Ruby on Rails applications.<br>I'm also a <a href="https://www.youtube.com/@Scramel/">freelance musician</a> and an aspiring game/visual novel developer!
   </samp>
 </p>
 <p align="center">
@@ -19,9 +19,9 @@
 
 <p>
  <img align="right" width="350" src="/logo.jpg" alt="Scramel logo" />
- 🖼️ &emsp; I'm particularly passionate for doing frontend work!<br/><br/>
- 🎹 &emsp; Also I'm a <a href="https://www.youtube.com/@Scramel/">freelance musician</a> too!<br/><br/>
- 🕹️ &emsp; Very into videogames! Especially indies like Celeste and VA-11 Hall-A.<br/><br/>
+ 🛠️ &emsp; 3 years of professional experience as web developer.<br/><br/>
+ 🖼️ &emsp; With a preference for doing frontend work. I can do backend just fine too though!<br/><br/>
+ 🎹 &emsp; Very into creative work (music, art, writing...) and videogames, especially indies!<br/><br/>
  💻 &emsp; Interested in learning Python, C#, and GDScript next.<br/><br/>
  📧 &emsp; Email me (<i>orionmelgarejo@gmail.com</i>) or add me on Discord (<i>apple.bloom</i>)!<br/><br/>
 </p>
