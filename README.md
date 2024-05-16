@@ -27,7 +27,7 @@
 </p>
 
 <!-- Tech  -->
-# Knowledge
+## Knowledge
 
 ![Vue](https://img.shields.io/badge/Vue.js-42b883?style=for-the-badge&labelColor=black&logo=vuedotjs&logoColor=42b883)
 ![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-cc0000?style=for-the-badge&labelColor=black&logo=ruby&logoColor=cc0000)
@@ -46,8 +46,9 @@
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
-
+<!-- Portfolio -->
 ## Open Source Work
+
 [![Surya Star Holding](https://github-readme-stats.vercel.app/api/pin/?username=scramel&repo=Surya-Star-Holding&border_color=white&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://scramel.github.io/Surya-Star-Holding/)
 [![Luna Nova](https://github-readme-stats.vercel.app/api/pin/?username=scramel&repo=luna-nova&border_color=white&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://scramel.github.io/luna-nova/)
 [![Works (WIP)](https://github-readme-stats.vercel.app/api/pin/?username=scramel&repo=works&border_color=white&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://scramel.github.io/works/#/)
