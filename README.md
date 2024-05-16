@@ -47,7 +47,7 @@
 <!-- Portfolio -->
 ## Open Source Work
 
-[![Surya Star Holding](https://github-readme-stats.vercel.app/api/pin/?username=scramel&repo=Surya-Star-Holding&border_color=white&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=white)](https://scramel.github.io/Surya-Star-Holding/)
-[![Luna Nova](https://github-readme-stats.vercel.app/api/pin/?username=scramel&repo=luna-nova&border_color=white&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=white)](https://scramel.github.io/luna-nova/)
-[![Works (WIP)](https://github-readme-stats.vercel.app/api/pin/?username=scramel&repo=works&border_color=white&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=white)](https://scramel.github.io/works/#/)
-[![IMV Motos](https://github-readme-stats.vercel.app/api/pin/?username=scramel&repo=IMV-Motos&border_color=white&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=white)](https://scramel.github.io/IMV-Motos/#/)
+[![Surya Star Holding](https://github-readme-stats.vercel.app/api/pin/?username=scramel&repo=Surya-Star-Holding&border_color=white&bg_color=0D1117&title_color=C9D1D9&text_color=ffffff&icon_color=white)](https://scramel.github.io/Surya-Star-Holding/)
+[![Luna Nova](https://github-readme-stats.vercel.app/api/pin/?username=scramel&repo=luna-nova&border_color=white&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=ffffff)](https://scramel.github.io/luna-nova/)
+[![Works (WIP)](https://github-readme-stats.vercel.app/api/pin/?username=scramel&repo=works&border_color=white&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=ffffff)](https://scramel.github.io/works/#/)
+[![IMV Motos](https://github-readme-stats.vercel.app/api/pin/?username=scramel&repo=IMV-Motos&border_color=white&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=ffffff)](https://scramel.github.io/IMV-Motos/#/)
