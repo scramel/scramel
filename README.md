@@ -1,5 +1,5 @@
 <!-- Banner  -->
-<img src="https://media.licdn.com/dms/image/D4E16AQFJm2XPYbwcHw/profile-displaybackgroundimage-shrink_350_1400/0/1683331751716?e=1721260800&v=beta&t=Yr7yeB9y9iVTYiaaKG23HC4mNzd3erqa24AySbpScgU" alt="Profile banner showcasing websites." />
+<img src="/banner.jpeg" alt="Profile banner showcasing websites." />
 
 <!-- Home  -->
 <h3 align="center">Hi! I'm Orion alias Scramel.</h3>
