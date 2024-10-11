@@ -1,5 +1,5 @@
 <!-- Banner  -->
-<img src="/banner.jpeg" alt="Profile banner showcasing websites." />
+<img src="/banner.png" alt="Profile banner showcasing websites." />
 
 <!-- Home  -->
 <h3 align="center">Hi! I'm Orion alias Scramel.</h3>
