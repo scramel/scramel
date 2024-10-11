@@ -23,7 +23,7 @@
  🖼️ &emsp; With a preference for doing frontend work. I can do backend just fine too though!<br/><br/>
  🎹 &emsp; Very into creative work (music, art, writing...) and videogames, especially indies!<br/><br/>
  💻 &emsp; Interested in learning Python, C#, and GDScript next.<br/><br/>
- 📧 &emsp; Email me (<i>orionmelgarejo@gmail.com</i>) or add me on Discord (<i>apple.bloom</i>)!<br/><br/>
+ 📧 &emsp; Email me (<i>contact@scramel.anonaddy.me</i>) or add me on Discord (<i>apple.bloom</i>)!<br/><br/>
 </p>
 
 <!-- Tech  -->
