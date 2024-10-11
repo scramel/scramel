@@ -8,11 +8,6 @@
       I'm a full-stack web developer from Venezuela with professional experience building Vue.js and Ruby on Rails applications.<br>I'm also a <a href="https://www.youtube.com/@Scramel/">freelance musician</a> and an aspiring game/visual novel developer!
   </samp>
 </p>
-<p align="center">
- <a href="https://www.linkedin.com/in/omelgarejo/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile"/>
- </a>
-</p>
 
 <!-- About -->
 # About
