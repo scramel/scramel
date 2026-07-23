@@ -14,7 +14,7 @@
 
 <p>
  <img align="right" width="350" src="/logo.jpg" alt="Scramel logo" />
- 🛠️ &emsp; 3 years of professional experience as web developer.<br/><br/>
+ 🛠️ &emsp; 5 years of professional experience as web developer.<br/><br/>
  🖼️ &emsp; With a preference for doing frontend work. I can do backend just fine too though!<br/><br/>
  🎹 &emsp; Very into creative work (music, art, writing...) and videogames, especially indies!<br/><br/>
  💻 &emsp; Interested in learning Python, C#, and GDScript next.<br/><br/>
@@ -28,12 +28,14 @@
 ![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-cc0000?style=for-the-badge&labelColor=black&logo=ruby&logoColor=cc0000)
 ![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=%233178C6&labelColor=fff)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SASS Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=css&logoColor=%23fff)
+![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0064a5?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-16171d?style=for-the-badge&logo=vitest)
 ![Bitbucket](https://img.shields.io/badge/Bitbucket-2185FF?style=for-the-badge&logo=bitbucket&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-EF5B25?style=for-the-badge&logo=postman&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
